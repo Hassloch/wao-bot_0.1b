@@ -9,3 +9,5 @@ Key Feature: Farming:
 - choose the level of the tiles
 - choose the number of available marches
 - send troops to farm automatically
+
+Note: VIP mode must be activated.
